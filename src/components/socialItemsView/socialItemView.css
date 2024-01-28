@@ -1,0 +1,32 @@
+.socialItemView-container {
+    padding: 10px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    border-radius: 10px;
+}
+.socialItem-icon {
+    display: flex;
+    flex-direction: row;
+}
+.socialItem-title {
+    margin-right: 20px;
+    font-size: 14px;
+    color: #646464;
+}
+
+.socialItem-text {
+    margin-right: 5px;
+    font-size: 14px;
+
+}.socialItem-textLink {
+    margin-right: 5px;
+    font-size: 14px;
+color: #f3880d;
+}
+ .socialItem-icon{
+     width: 100px;
+ }
